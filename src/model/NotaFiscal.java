@@ -1,4 +1,4 @@
-package Negocio;
+package model;
 
 public class NotaFiscal {
 
